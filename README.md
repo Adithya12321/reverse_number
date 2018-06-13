@@ -1,1 +1,1 @@
-"# Shruthi2512" 
+Simple program to reverse the digits of a number in C.
